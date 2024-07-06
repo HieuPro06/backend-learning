@@ -1,0 +1,27 @@
+{
+  "name": "backend-learning",
+  "version": "1.0.0",
+  "description": "success",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HieuPro06/backend-learning.git"
+  },
+  "keywords": [
+    "no",
+    "key"
+  ],
+  "author": "hieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HieuPro06/backend-learning/issues"
+  },
+  "homepage": "https://github.com/HieuPro06/backend-learning#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
